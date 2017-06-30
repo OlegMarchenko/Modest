@@ -68,10 +68,7 @@
   content: "\e904"; }
 
 body {
-  margin: 0;
-  background: url("../img/main-bg.jpg") no-repeat;
-  -webkit-background-size: cover;
-          background-size: cover; }
+  margin: 0; }
 
 html {
   -webkit-box-sizing: border-box;
@@ -106,7 +103,6 @@ li {
   list-style: none; }
 
 .main-wrapper {
-  overflow: hidden;
   position: relative; }
 
 .container {
@@ -123,10 +119,13 @@ header {
   background: #1d2126; }
 
 .navbar-logo {
-  float: left; }
+  float: left;
+  margin-top: 31px; }
 
 .navbar-collapse {
   float: right; }
+  .navbar-collapse ul {
+    margin: 26px 0; }
   .navbar-collapse li {
     display: inline-block;
     border: 2px solid transparent;
@@ -151,3 +150,6 @@ header {
     font-weight: 600;
     font-style: normal;
     padding: 4px 12px; }
+
+.header-slider {
+  background: url("../img/main-bg.jpg") center top no-repeat; }
