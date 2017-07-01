@@ -34,9 +34,9 @@
 
 @font-face {
   font-family: 'Quattrocento Sans';
-  src: url("../fonts/QuattrocentoSans-Bold.eot");
-  src: url("../fonts/QuattrocentoSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/QuattrocentoSans-Bold.woff") format("woff"), url("../fonts/QuattrocentoSans-Bold.ttf") format("truetype"), url("../fonts/QuattrocentoSans-Bold.svg#QuattrocentoSans-Bold") format("svg");
-  font-weight: bold;
+  src: url("../fonts/QuattrocentoSans.eot");
+  src: url("../fonts/QuattrocentoSans.eot?#iefix") format("embedded-opentype"), url("../fonts/QuattrocentoSans.woff") format("woff"), url("../fonts/QuattrocentoSans.ttf") format("truetype"), url("../fonts/QuattrocentoSans.svg#QuattrocentoSans") format("svg");
+  font-weight: normal;
   font-style: normal; }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -73,7 +73,7 @@ body {
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   font-weight: normal;
   font-style: normal;
   font-size: 16px;
@@ -96,7 +96,8 @@ img {
           box-sizing: inherit; }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Quattrocento Sans';
+  font-weight: 700;
   text-transform: uppercase; }
 
 li {
@@ -128,9 +129,9 @@ nav {
     -webkit-border-radius: 3px;
             border-radius: 3px;
     margin: 0 14px;
-    -webkit-transition: .3s;
-    -o-transition: .3s;
-    transition: .3s; }
+    -webkit-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s; }
     .navbar-collapse li:hover {
       border: 2px solid #5b6168;
       -webkit-border-radius: 3px;
@@ -163,7 +164,6 @@ nav {
   .sl-slide .container {
     display: table;
     width: 100%;
-    position: relative;
     min-height: 660px; }
 
 .container {
@@ -172,9 +172,6 @@ nav {
   margin-right: auto;
   padding: 0 15px;
   overflow: hidden; }
-
-.slick-dots {
-  bottom: 0; }
 
 .slick-dots li button {
   border: 1px solid #fff;
@@ -187,9 +184,9 @@ nav {
   opacity: 1;
   width: 12px;
   height: 12px;
-  -webkit-transition: 0.4s all;
-  -o-transition: 0.4s all;
-  transition: 0.4s all; }
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all; }
 
 .slick-dots li button,
 .slick-dots li button:hover,
@@ -211,3 +208,43 @@ nav {
   bottom: 0;
   text-align: right;
   margin-bottom: 30px; }
+
+.slick-dotted.slick-slider {
+  margin: 0; }
+
+.header-container {
+  position: relative; }
+
+.slogan {
+  position: absolute;
+  top: 50%;
+  left: 12%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 47%; }
+  .slogan h1 {
+    color: #fff;
+    font-size: 36px;
+    margin: 5px 0; }
+  .slogan p {
+    color: #ccd0d7; }
+  .slogan a {
+    font-size: 14px;
+    color: #fff;
+    border: 2px solid #fff;
+    display: inline-block;
+    -webkit-border-radius: 3px;
+            border-radius: 3px;
+    padding: 9px 22px;
+    -webkit-transition: .2s all;
+    -o-transition: .2s all;
+    transition: .2s all;
+    margin-right: 11px; }
+    .slogan a:hover {
+      background: #1db8a5;
+      border: 2px solid #1db8a5; }
+
+.title-about-us h2 {
+  font-size: 36px;
+  color: #292f36; }
