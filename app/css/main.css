@@ -151,5 +151,5 @@ header {
     font-style: normal;
     padding: 4px 12px; }
 
-.header-slider {
-  background: url("../img/main-bg.jpg") center top no-repeat; }
+.sl-slider {
+  background: url("../img/main-bg.jpg") no-repeat; }
