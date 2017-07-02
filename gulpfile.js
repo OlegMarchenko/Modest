@@ -54,7 +54,7 @@ gulp.task('img', function () {
         .pipe(gulp.dest('dist/img/'));
 });
 
-gulp.task('watch', ['css-libs', 'scripts', 'build'], function () {
+gulp.task('watch', ['build','css-libs', 'scripts'], function () {
     gulp.watch('app/sass/**/*.scss', ['sass']);
     gulp.watch('app/**/*.html');
     gulp.watch('app/js/*.js');
