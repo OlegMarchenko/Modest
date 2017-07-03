@@ -4,7 +4,6 @@
     <list default="true" id="97a1a65d-01f5-4cbf-bceb-67e7bbf37289" name="Default" comment="Modest">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="$PROJECT_DIR$/app/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.scss" afterPath="$PROJECT_DIR$/app/sass/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/main.css" afterPath="$PROJECT_DIR$/dist/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
@@ -31,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.096775">
+            <state vertical-scroll-proportion="-46.774193">
               <caret line="512" column="18" selection-start-line="512" selection-start-column="18" selection-end-line="512" selection-end-column="18" />
               <folding />
             </state>
@@ -41,8 +40,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82460135">
-              <caret line="921" column="0" selection-start-line="921" selection-start-column="0" selection-end-line="921" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.16389549">
+              <caret line="684" column="14" selection-start-line="684" selection-start-column="14" selection-end-line="684" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -51,12 +50,9 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.870968">
-              <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
-              <folding>
-                <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-                <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="-24.064516">
+              <caret line="759" column="0" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -203,24 +199,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,10 +395,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="702" column="0" selection-start-line="702" selection-start-column="0" selection-end-line="702" selection-end-column="0" />
-          <folding>
-            <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-            <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -436,10 +411,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
-          <folding>
-            <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-            <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -455,10 +427,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding>
-            <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-            <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -474,10 +443,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-            <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -569,6 +535,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6264237">
           <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,18 +604,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.870968">
-          <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
-          <folding>
-            <marker date="1499091204302" expanded="true" signature="19740:19964" placeholder="{...}" />
-            <marker date="1499091204302" expanded="true" signature="19970:20193" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="-24.064516">
+          <caret line="759" column="0" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.096775">
+        <state vertical-scroll-proportion="-46.774193">
           <caret line="512" column="18" selection-start-line="512" selection-start-column="18" selection-end-line="512" selection-end-column="18" />
           <folding />
         </state>
@@ -656,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82460135">
-          <caret line="921" column="0" selection-start-line="921" selection-start-column="0" selection-end-line="921" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.16389549">
+          <caret line="684" column="14" selection-start-line="684" selection-start-column="14" selection-end-line="684" selection-end-column="14" />
           <folding />
         </state>
       </provider>
