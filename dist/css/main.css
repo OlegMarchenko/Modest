@@ -645,3 +645,58 @@ footer {
     position: absolute;
     z-index: 1000;
     background: rgba(29, 33, 38, 0.9); } }
+
+.facebook:hover {
+  color: #0170d4;
+  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate; }
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 30px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 70px rgba(1, 112, 212, 0.5), 0 0 80px rgba(1, 112, 212, 0.5), 0 0 100px rgba(1, 112, 212, 0.5), 0 0 150px rgba(1, 112, 212, 0.5); }
+  to {
+    text-shadow: 0 0 5px rgba(1, 112, 212, 0.5), 0 0 10px rgba(1, 112, 212, 0.5), 0 0 15px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 35px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 50px rgba(1, 112, 212, 0.5), 0 0 75px rgba(1, 112, 212, 0.5); } }
+
+.twitter:hover {
+  color: #0170d4;
+  -webkit-animation: neon2 1.5s ease-in-out infinite alternate;
+  animation: neon2 1.5s ease-in-out infinite alternate; }
+
+@-webkit-keyframes neon2 {
+  from {
+    text-shadow: 0 0 10px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 30px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 70px rgba(1, 112, 212, 0.5), 0 0 80px rgba(1, 112, 212, 0.5), 0 0 100px rgba(1, 112, 212, 0.5), 0 0 150px rgba(1, 112, 212, 0.5); }
+  to {
+    text-shadow: 0 0 5px rgba(1, 112, 212, 0.5), 0 0 10px rgba(1, 112, 212, 0.5), 0 0 15px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 35px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 50px rgba(1, 112, 212, 0.5), 0 0 75px rgba(1, 112, 212, 0.5); } }
+
+.google:hover {
+  color: #0170d4;
+  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate; }
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 30px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 70px rgba(1, 112, 212, 0.5), 0 0 80px rgba(1, 112, 212, 0.5), 0 0 100px rgba(1, 112, 212, 0.5), 0 0 150px rgba(1, 112, 212, 0.5); }
+  to {
+    text-shadow: 0 0 5px rgba(1, 112, 212, 0.5), 0 0 10px rgba(1, 112, 212, 0.5), 0 0 15px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 35px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 50px rgba(1, 112, 212, 0.5), 0 0 75px rgba(1, 112, 212, 0.5); } }
+
+.facebook:hover {
+  color: #0170d4;
+  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate; }
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 30px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 70px rgba(1, 112, 212, 0.5), 0 0 80px rgba(1, 112, 212, 0.5), 0 0 100px rgba(1, 112, 212, 0.5), 0 0 150px rgba(1, 112, 212, 0.5); }
+  to {
+    text-shadow: 0 0 5px rgba(1, 112, 212, 0.5), 0 0 10px rgba(1, 112, 212, 0.5), 0 0 15px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 35px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 50px rgba(1, 112, 212, 0.5), 0 0 75px rgba(1, 112, 212, 0.5); } }
+
+.facebook:hover {
+  color: #0170d4;
+  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate; }
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 30px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 70px rgba(1, 112, 212, 0.5), 0 0 80px rgba(1, 112, 212, 0.5), 0 0 100px rgba(1, 112, 212, 0.5), 0 0 150px rgba(1, 112, 212, 0.5); }
+  to {
+    text-shadow: 0 0 5px rgba(1, 112, 212, 0.5), 0 0 10px rgba(1, 112, 212, 0.5), 0 0 15px rgba(1, 112, 212, 0.5), 0 0 20px rgba(1, 112, 212, 0.5), 0 0 35px rgba(1, 112, 212, 0.5), 0 0 40px rgba(1, 112, 212, 0.5), 0 0 50px rgba(1, 112, 212, 0.5), 0 0 75px rgba(1, 112, 212, 0.5); } }
