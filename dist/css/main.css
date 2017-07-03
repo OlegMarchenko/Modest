@@ -538,7 +538,9 @@ fieldset {
 .form-to-fill {
   width: 555px;
   display: inline-block;
-  margin-left: 50px; }
+  margin-left: 50px;
+  text-align: center;
+  padding: 30px 30px 23px 30px; }
   .form-to-fill input[type="text"],
   .form-to-fill input[type="email"] {
     width: 240px;
@@ -552,4 +554,4 @@ fieldset {
   width: 49%;
   display: inline-block; }
   .input-holder label {
-    display: block; }
+    display: inline-block; }
